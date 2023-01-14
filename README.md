@@ -44,9 +44,9 @@ bash <( curl -sL https://raw.githubusercontent.com/JericoinProject/startmasterno
 - SuperPutty - This allows you to have multiple Putty tabs open in one window, allowing you to easily organize and switch between masternode servers.
 
 # Troubleshooting
-Output on VPS shows Not capable Masternode: Hot node, waiting for remote activation:
-    - On VPS tip this command: jericoin-cli stop
-    - Close main Wallet (e.g windows wallet)
-    - On VPS tip: jericoind
-    - Open main Wallet (e.g windows wallet)
-    - Execute Part 3
+Output on VPS shows Not capable Masternode: Hot node, waiting for remote activation:<br>
+    - On VPS tip this command: jericoin-cli stop<br>
+    - Close main Wallet (e.g windows wallet)<br>
+    - On VPS tip: jericoind<br>
+    - Open main Wallet (e.g windows wallet)<br>
+    - Execute Part 3<br>
