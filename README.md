@@ -35,7 +35,7 @@ bash <( curl -sL https://raw.githubusercontent.com/JericoinProject/startmasterno
 1. After running the step 3, go back to your VPS
 2. Tip this command: jericoin-cli startmasternode local false
 3. Enter ```cd``` to get back to your root directory
-4. Enter ```tutela-cli getmasternodestatus```
+4. Enter ```jericoin-cli getmasternodestatus```
 5. This will tell you the status of your masternode, any questions, Join discord for help: https://discord.gg/xuEVagA8AT
 
 # Recommended Tools
