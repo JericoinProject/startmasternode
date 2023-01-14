@@ -11,7 +11,7 @@
 7. Go to Jericoin's location (e.g C:\Users\user1\AppData\Roaming\Jericoin)
 8. Open masternode.conf file
 9. Copy masternodeprivkey from masternode.conf since we need it to start VPS Masternode (usually its format is 
-    '''<alias> <ip>:31357 <masternodeprivkey> <transactionId> <index>''' )
+    '''[alias] [ip]:31357 [masternodeprivkey] [transactionId] [index]''' )
 10. Close the wallet
 11. Move to Part 2 for now
 
